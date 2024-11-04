@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+}
+.color-pink {
+    color: pink;
+}
+.color-pink, .paragraph {
+    font-size: 24px;
+}
+#h2 {
+    background-color: red;
+}
